@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/108961499/178380710-94f362dc-321b-4d2e
 
 <p align="center">
 Main Menu Window: <br/>
-<img src="https://i.imgur.com/Ct4Wsxc.png" height="60%" width="60%" alt="Main menu image"/>
+<img src="https://i.imgur.com/Ct4Wsxc.png" height="50%" width="50%" alt="Main menu image"/>
 <br />
 <br />
 New Player Profile Window:  <br/>
