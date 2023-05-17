@@ -24,7 +24,7 @@
 
 <h2>Video of Program Use:</h2>
 
-https://user-images.githubusercontent.com/108961499/178380710-94f362dc-321b-4d2e-86fb-c22e33d8320d.mp4
+https://github.com/SchneiderCJP/TheScoreKeeper/assets/108961499/acc79e8c-8765-4e4b-be09-13ee0aad9751
 
 <h2>Program Images:</h2>
 
