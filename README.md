@@ -1,7 +1,7 @@
 <h1>The Score Keeper 🏆 </h1>
 
 <h2>Description:</h2>
-In this program, it would take in information in regards to multiple games played between a group of people. It would be the ideal way of keeping track of data from various game nights and/or gaming events. This program would be able to take in information from the user about the various rounds/matches of games at any time and keep a record of this. This would be great for tournaments, setting goals for prizes, or just to know who the best is at what.
+  In this program, it would take in information in regards to multiple games played between a group of people. It would be the ideal way of keeping track of data from various game nights and/or gaming events. This program would be able to take in information from the user about the various rounds/matches of games at any time and keep a record of this. This would be great for tournaments, setting goals for prizes, or just to know who the best is at what.
 <br />
 
 <h2>Languages and Utilities Used:</h2>
