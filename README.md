@@ -34,51 +34,51 @@ Main Menu Window: <br/>
 <br />
 <br />
 New Player Profile Window:  <br/>
-<img src="https://i.imgur.com/JVHDEAC.png" height="80%" width="80%" alt="New player profile window image"/>
+<img src="https://i.imgur.com/JVHDEAC.png" height="40%" width="40%" alt="New player profile window image"/>
 <br />
 <br />
 History of Games Window: <br/>
-<img src="https://i.imgur.com/poItkQJ.png" height="80%" width="80%" alt="History of games screen window"/>
+<img src="https://i.imgur.com/poItkQJ.png" height="40%" width="40%" alt="History of games screen window"/>
 <br />
 <br />
 A Specific Game's Information Window:  <br/>
-<img src="https://i.imgur.com/RqKY6S8.png" height="80%" width="80%" alt="A specific game's information image"/>
+<img src="https://i.imgur.com/RqKY6S8.png" height="40%" width="40%" alt="A specific game's information image"/>
 <br />
 <br />
 All Players Window:  <br/>
-<img src="https://i.imgur.com/L6C0nXx.png" height="80%" width="80%" alt="All players window image"/>
+<img src="https://i.imgur.com/L6C0nXx.png" height="40%" width="40%" alt="All players window image"/>
 <br />
 <br />
 A Specific Player's Games Played Window:  <br/>
-<img src="https://i.imgur.com/MFMz2K9.png" height="80%" width="80%" alt="A specific player's games played image"/>
+<img src="https://i.imgur.com/MFMz2K9.png" height="40%" width="40%" alt="A specific player's games played image"/>
 <br />
 <br />
 Information on a Specific Player's Specific Game Window:  <br/>
-<img src="https://i.imgur.com/PRzV2Rp.png" height="80%" width="80%" alt="information on a specific player's specific game window image"/>
+<img src="https://i.imgur.com/PRzV2Rp.png" height="40%" width="40%" alt="information on a specific player's specific game window image"/>
 <br />
 <br />
 Create a New Game Window:  <br/>
-<img src="https://i.imgur.com/1vvnEND.png" height="80%" width="80%" alt="Create a new game window image"/>
+<img src="https://i.imgur.com/1vvnEND.png" height="40%" width="40%" alt="Create a new game window image"/>
 <br />
 <br />
 Create a New Game Confirmation:  <br/>
-<img src="https://i.imgur.com/mlhKYKw.png" height="80%" width="80%" alt="Create a new game confirmation image"/>
+<img src="https://i.imgur.com/mlhKYKw.png" height="40%" width="40%" alt="Create a new game confirmation image"/>
 <br />
 <br />
 A Game's Round Window:  <br/>
-<img src="https://i.imgur.com/ynt2TTj.png" height="80%" width="80%" alt="A game's round image"/>
+<img src="https://i.imgur.com/ynt2TTj.png" height="40%" width="40%" alt="A game's round image"/>
 <br />
 <br />
 End a Game Confirmation:  <br/>
-<img src="https://i.imgur.com/RpmIq1C.png" height="80%" width="80%" alt="End a game confirmation image"/>
+<img src="https://i.imgur.com/RpmIq1C.png" height="40%" width="40%" alt="End a game confirmation image"/>
 <br />
 <br />
 A Game's Finished Summary Window:  <br/>
-<img src="https://i.imgur.com/A32qa7A.png" height="80%" width="80%" alt="A game's finished summary window image"/>
+<img src="https://i.imgur.com/A32qa7A.png" height="40%" width="40%" alt="A game's finished summary window image"/>
 <br />
 <br />
 About Window:  <br/>
-<img src="https://i.imgur.com/VBTKouo.png" height="80%" width="80%" alt="About window image"/>
+<img src="https://i.imgur.com/VBTKouo.png" height="40%" width="40%" alt="About window image"/>
 <br />
 
 <!--
