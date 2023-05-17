@@ -6,14 +6,9 @@ This is a website that tests users on 20 different celebrities. The users at eac
 
 <h2>Languages and Utilities Used:</h2>
 
-- <b>PHP</b> 
-- <b>JavaScript</b>
-- <b>HTML</b> 
-- <b>Notepad++</b> 
-- <b>MySQL</b> 
+- <b>Java</b>
+- <b>phpMyAdmin</b> 
 - <b>Xampp</b> 
-- <b>Microsoft Excel Sheet</b> 
-- <b>Notepad</b> 
 
 <h2>Environment Used:</h2>
 
